@@ -31,10 +31,5 @@ Bienvenue dans le **Jeu d'Échecs Simpliste** développé en Java avec **NetBean
    - Cliquez sur **Exécuter** > **Nettoyer et Construire le Projet**.
    - Ensuite, sélectionnez **Exécuter** > **Exécuter le Projet** pour lancer le jeu d'échecs dans la console.
 
-## 🚀 Dépôt GitHub
+## 🚀 Enjoy :)
 
-Le code source est disponible sur GitHub : [AyaIsc/Echecs-java](https://github.com/AyaIsc/Echecs-java.git)
-
----
-
-Enjoy :)
